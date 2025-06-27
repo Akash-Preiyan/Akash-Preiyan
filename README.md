@@ -1,5 +1,5 @@
 - 👋 Hi, I'am Akash Preiyan J
-- ⚡ I’m a Full Stack Developer
+- ⚡ I’m a Full Stack Developer and Aspiring AIML Engineer
 - 🌱 Currently working on improving my skills in AIML domain
 - 📫 Reach me on: akashpreiyan97@gmail.com
 -  👀 Portfolio: https://portfolio-frontend-ls2mrwl3k-akash-preiyans-projects.vercel.app/
